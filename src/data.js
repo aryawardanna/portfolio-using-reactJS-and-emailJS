@@ -21,7 +21,7 @@ export const products = [
   },
   {
     id: 5,
-    img: 'https://i.ibb.co/k2j4Zpq/5.jpg',
+    img: 'https://i.ibb.co/xsfWpgM/dashboard-liburanyuk.png',
     link: '',
   },
   {
