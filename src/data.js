@@ -1,8 +1,8 @@
 export const products = [
   {
     id: 1,
-    img: 'https://i.ibb.co/DRTmyrS/2.jpg',
-    link: '',
+    img: 'https://i.ibb.co/P4YFwt4/storegg.png',
+    link: 'https://storegg-7pgpmw59e-aryawardanna.vercel.app/',
   },
   {
     id: 2,
@@ -16,8 +16,8 @@ export const products = [
   },
   {
     id: 4,
-    img: 'https://i.ibb.co/x6Jgzj5/4.jpg',
-    link: '',
+    img: 'https://i.ibb.co/vZZ01Rh/storegg-dashboard.png',
+    link: 'http://top-up-store.herokuapp.com',
   },
   {
     id: 5,
